@@ -1,0 +1,16 @@
+Name: DEMOPROJ01
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - VlocityCard/cpqAssetViewerContainer
+    - lwc/cfCpqAssetViewerContainer
+    - profiles/Admin.profile
+    - flexipages/DefaultAccountESMRecordPage1.flexipage
+VlocityTypesToFetch:
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - CustomObject
+    - FlexiPage
+    - LightningComponentBundle
+    - Profile
